@@ -6,6 +6,11 @@
     --primary-color: #0f1b4c;
 }
 
+html,
+body {
+    scroll-behavior: smooth;
+}
+
 html {
     /* 16px * 62.5% = 10px */
     font-size: 62.5%;
